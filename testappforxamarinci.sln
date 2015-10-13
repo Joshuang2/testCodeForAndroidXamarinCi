@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testappforxamarinci", "testappforxamarinci\testappforxamarinci.csproj", "{244206AB-5AFC-48F3-A462-867E9ECD9ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testappforxamarinci.UITests", "testappforxamarinci.UITests\testappforxamarinci.UITests.csproj", "{2F76C1AC-8808-485E-82EE-CD338E9B88EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244206AB-5AFC-48F3-A462-867E9ECD9ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244206AB-5AFC-48F3-A462-867E9ECD9ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244206AB-5AFC-48F3-A462-867E9ECD9ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244206AB-5AFC-48F3-A462-867E9ECD9ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F76C1AC-8808-485E-82EE-CD338E9B88EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F76C1AC-8808-485E-82EE-CD338E9B88EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F76C1AC-8808-485E-82EE-CD338E9B88EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F76C1AC-8808-485E-82EE-CD338E9B88EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
